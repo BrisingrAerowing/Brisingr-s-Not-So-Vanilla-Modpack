@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:pirates
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+pirates:pirate = 0
+
+</DungeonMobs>

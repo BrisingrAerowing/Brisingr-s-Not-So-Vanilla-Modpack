@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:viesmachines
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+viesmachines:machine.flying.airship = 0
+
+</DungeonMobs>

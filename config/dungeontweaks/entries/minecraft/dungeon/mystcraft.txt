@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:mystcraft
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+mystcraft:myst.book = 0
+
+</DungeonMobs>

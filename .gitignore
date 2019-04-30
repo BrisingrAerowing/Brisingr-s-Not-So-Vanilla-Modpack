@@ -1,0 +1,14 @@
+/\.mixin\.out
+/backups
+/coremods
+/downloads
+/journeymap
+/logs
+/modlists
+/saves
+/tmp
+minecraftinstance\.json
+icon\.png
+usercache\.json
+usernamecache\.json
+crafttweaker\.log

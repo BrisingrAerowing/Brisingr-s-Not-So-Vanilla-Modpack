@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:betternether
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+betternether:firefly = 0
+
+</DungeonMobs>

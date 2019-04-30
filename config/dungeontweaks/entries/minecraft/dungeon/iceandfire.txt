@@ -1,0 +1,31 @@
+#Dungeon Tweaks for:iceandfire
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+iceandfire:amphithere = 0
+iceandfire:cyclops = 0
+iceandfire:deathworm = 0
+iceandfire:dragonegg = 0
+iceandfire:dragonskull = 0
+iceandfire:firedragon = 0
+iceandfire:gorgon = 0
+iceandfire:hippocampus = 0
+iceandfire:hippogryph = 0
+iceandfire:icedragon = 0
+iceandfire:if_cockatrice = 0
+iceandfire:if_pixie = 0
+iceandfire:if_troll = 0
+iceandfire:myrmex_egg = 0
+iceandfire:myrmex_queen = 0
+iceandfire:myrmex_royal = 0
+iceandfire:myrmex_sentinel = 0
+iceandfire:myrmex_soldier = 0
+iceandfire:myrmex_worker = 0
+iceandfire:seaserpent = 0
+iceandfire:siren = 0
+iceandfire:snowvillager = 0
+iceandfire:stonestatue = 0
+iceandfire:stymphalianbird = 0
+
+</DungeonMobs>

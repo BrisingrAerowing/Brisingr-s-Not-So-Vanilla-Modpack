@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:chococraft
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+chococraft:chocobo = 0
+
+</DungeonMobs>

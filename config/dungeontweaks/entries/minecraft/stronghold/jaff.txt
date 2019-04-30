@@ -1,0 +1,11 @@
+#Dungeon Tweaks for:jaff
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+jaff:clownfish = 0
+jaff:cod = 0
+jaff:pufferfish = 0
+jaff:salmon = 0
+
+</DungeonMobs>

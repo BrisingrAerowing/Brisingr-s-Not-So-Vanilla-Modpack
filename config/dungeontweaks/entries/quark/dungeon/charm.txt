@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:charm
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+charm:spectre = 0
+
+</DungeonMobs>

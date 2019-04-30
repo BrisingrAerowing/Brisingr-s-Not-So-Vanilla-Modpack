@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:brownmooshrooms
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+brownmooshrooms:brown_mooshroom = 0
+
+</DungeonMobs>

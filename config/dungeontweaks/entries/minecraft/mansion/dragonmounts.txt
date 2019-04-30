@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:dragonmounts
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+dragonmounts:dragon = 0
+
+</DungeonMobs>

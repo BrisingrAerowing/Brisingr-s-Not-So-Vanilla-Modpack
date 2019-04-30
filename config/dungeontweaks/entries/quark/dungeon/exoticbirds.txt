@@ -1,0 +1,37 @@
+#Dungeon Tweaks for:exoticbirds
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+exoticbirds:bluejay = 0
+exoticbirds:booby = 0
+exoticbirds:cardinal = 0
+exoticbirds:cassowary = 0
+exoticbirds:crane = 0
+exoticbirds:duck = 0
+exoticbirds:emperorpenguin = 0
+exoticbirds:flamingo = 0
+exoticbirds:gouldianfinch = 0
+exoticbirds:heron = 0
+exoticbirds:hummingbird = 0
+exoticbirds:kingfisher = 0
+exoticbirds:kiwi = 0
+exoticbirds:kookaburra = 0
+exoticbirds:lyrebird = 0
+exoticbirds:magpie = 0
+exoticbirds:ostrich = 0
+exoticbirds:owl = 0
+exoticbirds:parrot = 0
+exoticbirds:peafowl = 0
+exoticbirds:pelican = 0
+exoticbirds:phoenix = 0
+exoticbirds:pigeon = 0
+exoticbirds:roadrunner = 0
+exoticbirds:robin = 0
+exoticbirds:seagull = 0
+exoticbirds:swan = 0
+exoticbirds:toucan = 0
+exoticbirds:vulture = 0
+exoticbirds:woodpecker = 0
+
+</DungeonMobs>

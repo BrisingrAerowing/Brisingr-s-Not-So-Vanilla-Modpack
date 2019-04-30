@@ -1,0 +1,16 @@
+#Dungeon Tweaks for:cactusmod
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+cactusmod:cactoni = 0
+cactusmod:cactus_cow = 0
+cactusmod:cactus_creeper = 0
+cactusmod:cactus_golem = 0
+cactusmod:cactus_sheep = 0
+cactusmod:cactus_skeleton = 0
+cactusmod:cactus_slime = 0
+cactusmod:cactus_snowman = 0
+cactusmod:cactus_spider = 0
+
+</DungeonMobs>

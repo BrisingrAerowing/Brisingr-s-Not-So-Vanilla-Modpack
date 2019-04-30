@@ -1,0 +1,44 @@
+#Dungeon Tweaks for:golems
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+golems:golem_bedrock = 0
+golems:golem_bone = 0
+golems:golem_bookshelf = 0
+golems:golem_clay = 0
+golems:golem_coal = 0
+golems:golem_concrete = 0
+golems:golem_crafting = 0
+golems:golem_diamond = 0
+golems:golem_emerald = 0
+golems:golem_end_stone = 0
+golems:golem_glass = 0
+golems:golem_glowstone = 0
+golems:golem_gold = 0
+golems:golem_hardened_clay = 0
+golems:golem_ice = 0
+golems:golem_lapis = 0
+golems:golem_leaves = 0
+golems:golem_magma = 0
+golems:golem_melon = 0
+golems:golem_nether_brick = 0
+golems:golem_nether_wart = 0
+golems:golem_obsidian = 0
+golems:golem_prismarine = 0
+golems:golem_quartz = 0
+golems:golem_red_sandstone = 0
+golems:golem_redstone = 0
+golems:golem_sandstone = 0
+golems:golem_sea_lantern = 0
+golems:golem_shroom = 0
+golems:golem_slime = 0
+golems:golem_sponge = 0
+golems:golem_stained_clay = 0
+golems:golem_stained_glass = 0
+golems:golem_straw = 0
+golems:golem_tnt = 0
+golems:golem_wooden = 0
+golems:golem_wool = 0
+
+</DungeonMobs>

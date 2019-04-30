@@ -1,0 +1,13 @@
+#Dungeon Tweaks for:familiarfauna
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+familiarfauna:familiarfauna.butterfly = 0
+familiarfauna:familiarfauna.deer = 0
+familiarfauna:familiarfauna.dragonfly = 0
+familiarfauna:familiarfauna.pixie = 0
+familiarfauna:familiarfauna.snail = 0
+familiarfauna:familiarfauna.turkey = 0
+
+</DungeonMobs>

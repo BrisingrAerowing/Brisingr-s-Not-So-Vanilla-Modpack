@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:coroutil
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+coroutil:bat_smart = 0
+
+</DungeonMobs>

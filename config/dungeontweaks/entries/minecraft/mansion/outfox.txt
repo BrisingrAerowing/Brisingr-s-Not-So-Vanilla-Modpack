@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:outfox
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+outfox:fox = 0
+
+</DungeonMobs>
