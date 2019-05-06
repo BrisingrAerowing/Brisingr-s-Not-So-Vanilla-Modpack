@@ -1,0 +1,11 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+jurassicraft:geneticist
+jurassicraft:paleontologist
+totemexpansion:witchdoctor
+mystcraft:archivist
+sophisticatedwolves:pets_seller

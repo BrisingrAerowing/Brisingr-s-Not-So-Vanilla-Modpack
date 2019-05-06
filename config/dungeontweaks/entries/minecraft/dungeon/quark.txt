@@ -4,8 +4,8 @@
 <DungeonMobs>
 
 quark:archeologist = 0
-quark:ashen = 75
-quark:dweller = 75
+quark:ashen = 0
+quark:dweller = 0
 quark:pirate = 0
 quark:wraith = 0
 

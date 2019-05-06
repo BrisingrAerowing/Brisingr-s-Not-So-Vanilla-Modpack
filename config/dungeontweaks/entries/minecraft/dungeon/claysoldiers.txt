@@ -1,0 +1,9 @@
+#Dungeon Tweaks for:claysoldiers
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+claysoldiers:claysoldier = 0
+claysoldiers:mountgecko = 0
+
+</DungeonMobs>

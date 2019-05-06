@@ -1,0 +1,18 @@
+#Dungeon Tweaks for:jurassicraft
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+jurassicraft:entities.brachiosaurus = 0
+jurassicraft:entities.coelacanth = 0
+jurassicraft:entities.dilophosaurus = 0
+jurassicraft:entities.gallimimus = 0
+jurassicraft:entities.goat = 0
+jurassicraft:entities.microraptor = 0
+jurassicraft:entities.mussaurus = 0
+jurassicraft:entities.parasaurolophus = 0
+jurassicraft:entities.triceratops = 0
+jurassicraft:entities.tyrannosaurus = 0
+jurassicraft:entities.velociraptor = 0
+
+</DungeonMobs>

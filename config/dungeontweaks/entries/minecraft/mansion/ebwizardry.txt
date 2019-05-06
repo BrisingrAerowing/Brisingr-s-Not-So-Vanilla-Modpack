@@ -1,0 +1,25 @@
+#Dungeon Tweaks for:ebwizardry
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+ebwizardry:blaze_minion = 0
+ebwizardry:decoy = 0
+ebwizardry:evil_wizard = 0
+ebwizardry:ice_giant = 0
+ebwizardry:ice_wraith = 0
+ebwizardry:lightning_wraith = 0
+ebwizardry:magic_slime = 0
+ebwizardry:phoenix = 0
+ebwizardry:shadow_wraith = 0
+ebwizardry:silverfish_minion = 0
+ebwizardry:skeleton_minion = 0
+ebwizardry:spider_minion = 0
+ebwizardry:spirit_horse = 0
+ebwizardry:spirit_wolf = 0
+ebwizardry:storm_elemental = 0
+ebwizardry:wither_skeleton_minion = 0
+ebwizardry:wizard = 0
+ebwizardry:zombie_minion = 0
+
+</DungeonMobs>

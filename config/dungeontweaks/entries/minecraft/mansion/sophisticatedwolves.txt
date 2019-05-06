@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:sophisticatedwolves
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+sophisticatedwolves:textures/entity/brown/wolf.png = 0
+
+</DungeonMobs>

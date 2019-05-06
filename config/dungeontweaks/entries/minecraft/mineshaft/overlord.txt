@@ -1,0 +1,11 @@
+#Dungeon Tweaks for:overlord
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+overlord:skeleton_baby = 0
+overlord:skeleton_converted = 0
+overlord:skeleton_curing = 0
+overlord:skeleton_warrior = 0
+
+</DungeonMobs>

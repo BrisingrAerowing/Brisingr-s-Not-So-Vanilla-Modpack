@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:harvestersnight
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+harvestersnight:harvester = 0
+
+</DungeonMobs>

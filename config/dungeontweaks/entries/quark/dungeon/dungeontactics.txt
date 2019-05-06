@@ -1,0 +1,10 @@
+#Dungeon Tweaks for:dungeontactics
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+dungeontactics:attacken = 0
+dungeontactics:bone_wolf = 0
+dungeontactics:towerguardian = 0
+
+</DungeonMobs>

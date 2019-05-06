@@ -1,0 +1,11 @@
+#Dungeon Tweaks for:eerieentities
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+eerieentities:cursed_armor = 0
+eerieentities:nether_knight = 0
+eerieentities:pumpkin_slime = 0
+eerieentities:wisp = 0
+
+</DungeonMobs>

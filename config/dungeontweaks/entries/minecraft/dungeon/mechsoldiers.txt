@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:mechsoldiers
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+mechsoldiers:mechanical_skeleton = 0
+
+</DungeonMobs>

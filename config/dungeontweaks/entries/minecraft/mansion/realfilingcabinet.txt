@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:realfilingcabinet
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+realfilingcabinet:entitycabinet = 0
+
+</DungeonMobs>

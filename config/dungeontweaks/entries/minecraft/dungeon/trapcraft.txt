@@ -1,8 +1,0 @@
-#Dungeon Tweaks for:trapcraft
-#Format mobid:mobname { } = weight
-
-<DungeonMobs>
-
-trapcraft:dummy = 0
-
-</DungeonMobs>

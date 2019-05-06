@@ -1,8 +1,0 @@
-#Dungeon Tweaks for:endergetic
-#Format mobid:mobname { } = weight
-
-<DungeonMobs>
-
-endergetic:plasmoid = 0
-
-</DungeonMobs>
