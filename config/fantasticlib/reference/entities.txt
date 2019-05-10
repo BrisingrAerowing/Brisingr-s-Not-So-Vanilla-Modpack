@@ -146,23 +146,23 @@ arcane_essentials:whirlpool
 arcane_essentials:magic bolt
 arcane_essentials:cyclone bolt
 armourers_workshop:seat
-quark:chest_passenger
 quark:seat
+quark:totem_of_holding
+quark:pirate
+quark:archeologist
+quark:wraith
+quark:dweller
+quark:ashen
 quark:arrow_ender
 quark:arrow_explosive
 quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:pirate
-quark:archeologist
-quark:wraith
-quark:dweller
-quark:ashen
-quark:totem_of_holding
 quark:flat_item_frame
 quark:colored_item_frame
 quark:glass_item_frame
+quark:chest_passenger
 miscrails:speed_cart
 betternether:firefly
 bibliocraft:biblioseat
@@ -178,7 +178,6 @@ cartblanche:jukebox_cart
 cartblanche:beacon_cart
 cartblanche:banner_cart
 charm:charged_emerald
-charm:spectre
 claysoldiers:claysoldier
 claysoldiers:gravelprojectile
 claysoldiers:snowprojectile

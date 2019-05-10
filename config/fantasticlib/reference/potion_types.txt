@@ -162,7 +162,6 @@ apotheosis:knowledge
 apotheosis:long_knowledge
 apotheosis:strong_knowledge
 charm:coffee
-charm:decay
 charm:ender_sight
 plants2:wither
 plants2:regen_heal

@@ -94,7 +94,6 @@ totemexpansion:spelunking
 apotheosis:sundering
 apotheosis:knowledge
 charm:coffee
-charm:decay
 charm:ender_sight
 enchanting_tweaks:counterattack
 potionofaiming:aiming

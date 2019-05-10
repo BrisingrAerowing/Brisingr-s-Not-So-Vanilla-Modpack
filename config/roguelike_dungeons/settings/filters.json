@@ -1,0 +1,6 @@
+{
+	"name" : "nsvp:filters",
+	"filters" : [
+		{"level" : 3, "name" : "vine"}
+	]
+}

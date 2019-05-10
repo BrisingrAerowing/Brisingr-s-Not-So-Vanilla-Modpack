@@ -1,0 +1,11 @@
+{
+	"name" : "builtin:loot",
+	"inherit" : [
+		"nsvp:loot0",
+		"nsvp:loot1",
+		"nsvp:loot2",
+		"nsvp:loot3",
+		"nsvp:loot4",
+		"nsvp:loot_all"
+	]
+}
